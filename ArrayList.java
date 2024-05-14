@@ -3,7 +3,7 @@ import java.util.Iterator;
 import java.util.NoSuchElementException;
 import java.util.Objects;
 
-/**Emhenya Supreme 3132969
+/**Emhenya Supreme
  * The ArrayList class implements the List interface and represents a dynamic array that can grow or shrink in size.
  *
  * @param <E> The type of elements stored in the ArrayList.
