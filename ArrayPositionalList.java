@@ -1,7 +1,7 @@
 /**
  * ACS-2947 Assignment 2 Part B
  * Emhenya Supreme
- *  3132969
+ *  
  */
 /**
  * The ArrayPositionalList class implements the PositionalList interface and represents a list
