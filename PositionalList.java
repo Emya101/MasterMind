@@ -1,4 +1,4 @@
-/*  Emhenya Supreme,3132969
+/*  Emhenya Supreme
  *   From Data Structures and Algorithms in Java, Sixth Edition, Goodrich et al.
  */
 
