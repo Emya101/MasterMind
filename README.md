@@ -1,4 +1,7 @@
 # MasterMind
+Note:
+After getting all the files, its best to run the program from the Game class
+
 Code inspired by the famous MasterMind Game
 
 
