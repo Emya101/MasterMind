@@ -1,4 +1,4 @@
-//Emhenya Supreme 3132969
+//Emhenya Supreme
 /**
  * The Colour enum represents different colors that can be used in the game.
  */
