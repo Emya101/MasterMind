@@ -1,5 +1,5 @@
 //Emhenya Supreme
-//3132969
+//
 
 import java.util.Scanner;
 import java.util.Random;
