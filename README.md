@@ -48,9 +48,11 @@ Follow the prompts to guess the sequence of colors.
 Example Gameplay
 
 Secret code generated. Try to guess the colors!
+
 System:		Guess # 1:
 Player:		red blue green yellow
 System:		x - o -
+
 System:		Guess # 2:
 Player:		red yellow blue green
 System:		x x - o
