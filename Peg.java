@@ -1,4 +1,4 @@
-//Emhenya Supreme 3132969
+//Emhenya Supreme 
 /**
  * The Peg class represents a peg with a specific color.
  */
