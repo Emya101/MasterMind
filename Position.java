@@ -1,5 +1,5 @@
 /*Emhenya Supreme
-   3132969
+   
  * From Data Structures and Algorithms in Java, Sixth Edition, Goodrich et al.
  */
 public interface Position<E> {
